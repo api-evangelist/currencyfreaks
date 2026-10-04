@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: CurrencyFreaks
     description: "Provides current and historical currency exchange rates with free plan 1K requests/month"
     humanURL: https://currencyfreaks.com/
-    baseURL: https://currencyfreaks.com/
     tags:
       - Currency Exchange
     properties:
