@@ -33,6 +33,10 @@ x-category: "Currency Exchange"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Foreign Exchange
+  - Public APIs
+  - Exchange Rates
+tags_raw:
   - Currency Exchange
   - Public APIs
   - Exchange Rates
@@ -41,6 +45,8 @@ apis:
     description: "Provides current and historical currency exchange rates with free plan 1K requests/month"
     humanURL: https://currencyfreaks.com/
     tags:
+      - Foreign Exchange
+    tags_raw:
       - Currency Exchange
     properties:
       - type: Documentation
